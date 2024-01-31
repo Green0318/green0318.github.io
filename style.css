@@ -349,6 +349,9 @@ noscript{
     user-select: none;
 
 }
+.no-deco {
+    text-decoration: none;
+}
 .hey{
     color: white;
     position: absolute;
